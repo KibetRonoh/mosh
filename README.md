@@ -2,7 +2,7 @@
 
 This repository contains the completed GameHub project as of the end of part 2 of my React course.
 
-You can find the full course at: https://mosh-kappa.vercel.app/
+You can find Demo at: https://mosh-kappa.vercel.app/
 
 ## Getting Started
 
